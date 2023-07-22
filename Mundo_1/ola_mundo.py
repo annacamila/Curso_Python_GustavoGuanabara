@@ -12,12 +12,12 @@ print(f'É um prazer te conhecer, {nome}! Você se tornará um(a) grande desenvo
 num1 = (input('Digite o primeiro número: '))
 num2 = (input('Digite o segundo número: '))
 soma = num1 + num2
-print(f'A soma entre {num1} + {num2} é {num1 + num2}')
+print(f'A soma entre {num1} + {num2} é {soma}')
 
 num1 = int(input('Digite o primeiro número: '))
 num2 = int(input('Digite o segundo número: '))
 soma = num1 + num2
-print(f'A soma entre {num1} + {num2} é {num1 + num2}')
+print(f'A soma entre {num1} + {num2} é {soma}')
 
 algo = input('Digite algo: ')
 print(algo,'É do tipo primitivo', type(algo))
